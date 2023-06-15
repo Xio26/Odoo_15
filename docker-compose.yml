@@ -1,6 +1,6 @@
 version: "3.7"
 services:
-    odoo16:
+    odoo15:
         image: odoo:15.0
         platform: linux/amd64
         container_name: odoo15
